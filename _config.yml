@@ -9,7 +9,7 @@
 title: J. Frederico Carvalho
 email: jfpbdc@kth.se
 description:
-baseurl: "." # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://csc.kth.se/~jfpbdc" # the base hostname & protocol for your site
 twitter_username: joaoCarvas
 github_username:  crvs
