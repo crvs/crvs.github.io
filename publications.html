@@ -1,0 +1,25 @@
+---
+layout: page
+title: Publications
+permalink: /publications.html
+---
+
+<div class="home">
+  <ul class="post-list">
+    {% for post in site.posts %}
+    {% if post.kind == "paper" %}
+      <li>
+      <span class="post-meta">
+          <a class="post-outside" href="{{ post.ref }}">{{ post.publication }} {{ post.date | date: "%Y" }} | {{ post.status }}</a></span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

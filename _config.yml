@@ -8,7 +8,10 @@
 # Site settings
 title: J. Frederico Carvalho
 email: jfpbdc@kth.se
-description:
+description: >
+    Personal website of J. Frederico Carvalho</br>
+    PhD student in CVAP</br>
+    Royal Institute of Technology, KTH, Sweden</br>
 baseurl: "." # the subpath of your site, e.g. /blog
 url: "http://csc.kth.se/~jfpbdc" # the base hostname & protocol for your site
 twitter_username: joaoCarvas

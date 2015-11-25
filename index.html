@@ -4,10 +4,17 @@ layout: default
 
 <div class="home">
 
+    <div class="wrapper">
+        <img src="{{ site.baseurl }}/img/photo.jpg" align="right" width="100px">
+
+        I am a PhD student at the Computer Vision and Active Perception (CVAP) at the Royal Institute of Technology (KTH), Stockholm, Sweden.
+    </div>
+
   <h1 class="page-heading">News</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
+    {% if post.kind == "post" %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -15,6 +22,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
+    {% endif %}
     {% endfor %}
   </ul>
 

@@ -17,6 +17,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    underline: false;
 
     &,
     &:visited {
@@ -192,6 +193,20 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+}
+
+.post-outside {
+    font-size: $small-font-size;
+    color: $grey-color;
+    &:visited {
+        color: $grey-color;
+        text-decoration: none;
+    }
+    &:hover
+    {
+        color: $grey-color;
+        text-decoration: none;
+    }
 }
 
 .post-link {

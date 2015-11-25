@@ -3,6 +3,8 @@ layout: post
 title:  "Done templating!!"
 date:   2015-11-24 11:54:00 +0100
 categories: jekyll update
+
+kind: "post"
 ---
 
 <img align="left" src="{{ site.post_depth }}/img/warning.png" width="45px"/>
