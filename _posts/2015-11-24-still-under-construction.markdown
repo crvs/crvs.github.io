@@ -7,7 +7,7 @@ categories: jekyll update
 kind: "post"
 ---
 
-<img align="left" src="{{ site.post_depth }}/img/warning.png" width="45px"/>
+<img align="left" src="{{ site.url }}/img/warning.png" width="45px"/>
 
 Still under construction, but now it's actually all online and the templates work with Apache. Eventually the look of the website may change in the future.
 
