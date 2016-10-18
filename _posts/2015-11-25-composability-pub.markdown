@@ -8,7 +8,7 @@ kind: "paper"
 venue: "journal"
 publication: "Automatica"
 ref: "http://www.journals.elsevier.com/automatica/"
-status: "Submitted"
+status: "Accepted"
 author: "J. Frederico Carvalho, Sergio Pequito, A. Pedro Aguiar, Soummya Kar, Karl H. Johansson"
 ---
 
@@ -17,4 +17,3 @@ Motivated by the development and deployment of large-scale dynamical systems, of
 Available on [ArXiv]
 
 [ArXiV]:http://arxiv.org/abs/1506.05770
-
