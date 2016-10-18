@@ -7,7 +7,7 @@ categories: jekyll update
 kind: "post"
 ---
 
-Finally after an excrutiatinglyl long peer review process, the draft of [Distributed Verification of Structural Controllability for Linear Time-Invariant Systems]({% post_url publications/2015-06-18-composability-pub %}) has been accepted for publicatin in [Automatica].
+Finally after an excrutiatingly long peer review process, the draft of [Distributed Verification of Structural Controllability for Linear Time-Invariant Systems]({% post_url publications/2015-06-18-composability-pub %}) has been accepted for publication in [Automatica].
 
 
 [Automatica]:http://www.journals.elsevier.com/automatica/
