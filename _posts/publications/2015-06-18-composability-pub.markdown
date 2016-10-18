@@ -3,6 +3,7 @@ layout: post
 title:  "Distributed Verification of Structural Controllability for Linear Time-Invariant Systems"
 date:   2015-06-18 11:54:00 +0100
 categories: jekyll update
+name: composability-paper
 
 kind: "paper"
 venue: "journal"
