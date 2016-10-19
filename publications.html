@@ -6,17 +6,15 @@ permalink: /publications.html
 
 <div class="home">
   <ul class="post-list">
-    {% for post in site.posts %}
-    {% if post.kind == "paper" %}
+    {% for pub in site.publications %}
       <li>
       <span class="post-meta">
-          <a class="post-outside" href="{{ post.ref }}">{{ post.publication }} {{ post.date | date: "%Y" }} | {{ post.status }}</a></span>
+          <a class="post-outside" href="{{ pub.ref }}">{{ pub.publication }} {{ pub.date | date: "%Y" }} | {{ pub.status }}</a></span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ pub.url | prepend: site.baseurl }}">{{ pub.title }}</a>
         </h2>
       </li>
-    {% endif %}
     {% endfor %}
   </ul>
 </div>

@@ -3,6 +3,7 @@ layout: post
 title:  "Done templating!!"
 date:   2015-11-24 11:54:00 +0100
 categories: jekyll update
+type: post
 
 kind: "post"
 ---

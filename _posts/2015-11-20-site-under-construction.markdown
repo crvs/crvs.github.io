@@ -3,6 +3,7 @@ layout: post
 title:  "Site under construction!"
 date:   2015-11-23 11:12:00 +0100
 categories: jekyll update
+type: post
 
 kind: "post"
 ---
