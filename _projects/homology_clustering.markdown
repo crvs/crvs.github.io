@@ -10,5 +10,5 @@ status: active
 
 This page will ellaborate on [homology clustering].
 
-[homology clustering]:{{ site.baseurl | append: files/homology_clustering.pdf }}
+[homology clustering]:"{% link files/homology_clustering_submitted.pdf %}"
 
