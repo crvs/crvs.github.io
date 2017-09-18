@@ -10,7 +10,7 @@ venue: "journal"
 publication: "PeerJ"
 ref: "https://peerj.com/computer-science/"
 status: "Under Peer Rreview"
-author: "J. Frederico Carvalho, Sergio Pequito, A. Pedro Aguiar, Soummya Kar, Karl H. Johansson"
+author: "J. Frederico Carvalho, Mikael Vejdemo-Johansson, Danica Kragic, Florian T. Pokorny"
 ---
 
 We describe the \textsc{Coefficient-Flow} algorithm for calculating the bounding chain of an $(n-1)$--boundary on an $n$--manifold-like simplicial complex $S$. We prove its correctness and show that it has a computational time complexity of $O(\|S^{(n-1)}\|)$ (where $S^{(n-1)}$ is the set of $(n-1)$--faces of $S$). We estimate the big-$O$ coefficient which depends on the dimension of $S$ and the implementation. We present an implementation, experimentally evaluate the complexity of our algorithm, and compare its performance with that of solving the underlying linear system.
