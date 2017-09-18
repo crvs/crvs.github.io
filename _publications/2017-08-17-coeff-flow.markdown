@@ -17,5 +17,5 @@ We describe the \textsc{Coefficient-Flow} algorithm for calculating the bounding
 
 Available as [PeerJ Preprint]. The accompanying code can be obtained on [Github]
 
-[PeerJ Preprint]:https://peerj.com/preprints/3151/
+[PeerJ Preprint]:https://peerj.com/preprints/3151/?td=bl
 [Github]:https://github.com/crvs/coeff-flow
