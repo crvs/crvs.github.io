@@ -29,7 +29,6 @@ jekyll: "https://github.com/jekyll"
 collections:
     publications:
         output: true
-        permalink: /:collection/:name
     projects:
         output: true
 
