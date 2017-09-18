@@ -12,7 +12,7 @@ permalink: /publications.html
           <a class="post-outside" href="{{ pub.ref }}">{{ pub.publication }} {{ pub.date | date: "%Y" }} | {{ pub.status }}</a></span>
 
         <h2>
-          <a class="post-link" href="{{ pub.url | prepend: site.baseurl }}">{{ pub.title }}</a>
+        <a class="post-link" href="{{ prepend: site.baseurl }}{%link pub.url %}">{{ pub.title }}</a>
         </h2>
       </li>
     {% endfor %}
