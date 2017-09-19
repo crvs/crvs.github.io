@@ -10,5 +10,5 @@ status: active
 
 This page will ellaborate on [homology clustering].
 
-[homology clustering]:{% link _publications/2017-09-15-homology-clustering-pub.markdown %}
+[homology clustering]:{{ site.baseurl }}{% link _publications/2017-09-15-homology-clustering-pub.markdown %}
 
