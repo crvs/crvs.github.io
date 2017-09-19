@@ -6,7 +6,8 @@ permalink: /publications.html
 
 <div class="home">
   <ul class="post-list">
-    {% for pub in site.publications %}
+    {% assign sorted = (site.publications | sort: 'date' ) | reverse %}
+    {% for pub in sorted %}
       <li>
       <span class="post-meta">
           <a class="post-outside" href="{{ pub.ref }}">{{ pub.publication }} {{ pub.date | date: "%Y" }} | {{ pub.status }}</a></span>
