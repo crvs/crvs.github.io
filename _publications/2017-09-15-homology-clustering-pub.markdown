@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Path Clustering with Homology Clustering"
+title:  "Path Clustering with Homology Area"
 date:   2017-09-16
 categories: jekyll update
 name: homology-clustering-paper
