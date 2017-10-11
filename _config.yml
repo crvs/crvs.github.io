@@ -36,5 +36,5 @@ collections:
 markdown: kramdown
 
 comments: true
-disqus: = 'jfpbdc-csc-kth'
+disqus: "jfpbdc-csc-kth"
 
