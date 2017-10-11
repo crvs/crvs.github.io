@@ -34,3 +34,7 @@ collections:
 
 # Build settings
 markdown: kramdown
+
+comments: true
+disqus: = 'jfpbdc-csc-kth'
+
