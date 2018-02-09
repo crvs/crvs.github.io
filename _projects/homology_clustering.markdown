@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:  "Path Clustering with Homology Area"
 name: "homology_clustering"
 permalink: projects/homology_clustering/index.html
