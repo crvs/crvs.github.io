@@ -1,11 +1,19 @@
 ---
 layout: page
+
+title:  "Path Clustering with Homology Area"
+
 name: "homology_clustering"
-author: "J. Frederico Carvalho, Mikael Vejdemo-Johansson, Danica Kragic, Florian T. Pokorny"
+
+permalink: projects/homology_clustering/index.html
+
 comments: true
 
+author: "J. Frederico Carvalho, Mikael Vejdemo-Johansson, Danica Kragic, Florian T. Pokorny"
+
+status: active
+
 ---
-# Path Clustering with Homology Area
 
 This page provides some supplemental material on the the paper [homology clustering]({{ site.baseurl }}{% link _publications/2017-09-15-homology-clustering-pub.markdown %})  (pdf available [here]({{ site.baseurl }}{% link files/homology_clustering_submitted.pdf %})). A live notebook example can be consulted in [github](https://github.com/crvs/path-clustering)
 
