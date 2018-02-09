@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 name: "homology_clustering"
 author: "J. Frederico Carvalho, Mikael Vejdemo-Johansson, Danica Kragic, Florian T. Pokorny"
 comments: true
