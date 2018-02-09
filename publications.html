@@ -6,7 +6,7 @@ permalink: /publications.html
 
 <div class="home">
   <ul class="post-list">
-    {% assign sorted = (site.publications | sort: 'date' ) | reverse %}
+    {% assign sorted = site.publications | sort: 'date' | reverse %}
     {% for pub in sorted %}
       <li>
       <span class="post-meta">
