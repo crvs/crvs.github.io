@@ -9,7 +9,7 @@ kind: "paper"
 venue: "journal"
 publication: "PeerJ"
 ref: "https://peerj.com/computer-science/"
-status: "Under Peer Rreview"
+status: "Accepted"
 author: "J. Frederico Carvalho, Mikael Vejdemo-Johansson, Danica Kragic, Florian T. Pokorny"
 ---
 
