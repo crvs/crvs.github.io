@@ -3,6 +3,8 @@ layout: project
 
 comments: true
 
+tile: Homology Clustering
+
 author: J. Frederico Carvalho, Mikael Vejdemo-Johansson, Danica Kragic, Florian T. Pokorny
 
 status: active
