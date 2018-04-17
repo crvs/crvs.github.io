@@ -6,7 +6,7 @@ permalink: /about.html
 
 <img src="{{ site.baseurl }}{% link img/photo.jpg %}" align="right" width="100px">
 
-I am a PhD student at the Robotics Perception and Learning Lab (RPL) in the Royal Institute of Technology (KTH), Stockholm, Sweden.
+I am a PhD student at the [Robotics Perception and Learning Lab (RPL)](www.kth.se/rpl) in the Royal Institute of Technology (KTH), Stockholm, Sweden.
 
 My research interests include (but are not limited to):
 
