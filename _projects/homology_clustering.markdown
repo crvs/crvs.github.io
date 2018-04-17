@@ -24,7 +24,7 @@ In here we go a little bit deeper into the processing of the paths in the Edinbu
 
 With that in place we approximate the space with a regular simplicial complex $S$ where every triangle has a side of length 7 to obtain the following triangulation (right).
 
-| ![Image of the Edinburgh Forum overlayed with some of the paths]("{{ site.baseurl }}/img/edinburgh-forum-w-paths.png" ) |  ![Triangulation of the space underlying the paths in the Edinburgh Dataset.]({{ site.baseurl }}/img/output_12_1.png) |
+| ![Image of the Edinburgh Forum overlayed with some of the paths]( {{ site.baseurl }}/img/edinburgh-forum-w-paths.png ) |  ![Triangulation of the space underlying the paths in the Edinburgh Dataset.]({{ site.baseurl }}/img/output_12_1.png) |
 
 Now, using this triangulated region we compute the distance matrix of the set of paths using our method. Doing this results in the following times (using our python implementation with a single core of an intel core i7 processor).
 
@@ -60,13 +60,13 @@ Which comes down to 20 minutes, whereas DTW and FastDTW, cannot benefit from the
 
 To compare the outputs we decided to choose a single homology cluster [^singlecluster]. bellow are the paths of this cluster depicted in yellow over the grid.
 
-![png](./../../img/output_14_1.png)
+![png]( {{ site.baseurl }}/img/output_14_1.png)
 
 In order to infer the proper distance threshold for clustering, we employed complete linkage clustering on this set of paths which gave us the following dendrograms:
 
 | MARHom | DTW |
 |:---:|:---:|
-|![png](./../../img/output_15_0.png)| ![png](./../../img/output_20_0.png)|
+|![png]({{ site.baseurl }}/img/output_15_0.png)| ![png]({{ site.baseurl }}/img/output_20_0.png)|
 
 The dendrogram on the left corresponds to our method, whereas the one on the right corresponds to using DTW on this homology cluster. The color threshold was chosen so that the dendrogram would yield 5 clusters.
 
@@ -74,7 +74,7 @@ Simply from comparing the dendrograms we see that DTW already clusters paths tog
 
 | MARHom | DTW |
 |:---:|:---:|
-|![png](./../../img/output_15_2.png) |![png](./../../img/output_20_2.png)|
+|![png]( {{ site.baseurl }}img/output_15_2.png) |![png]( {{ site.baseurl }}/img/output_20_2.png)|
 
 By looking at the clustering in the picture above we see that DTW, for some reason, produces a very large cluster (in red) that seems to be broken by another cluster (in light-blue). Our method, on the other hand, produces mostly spacially-coherent clusters.
 
