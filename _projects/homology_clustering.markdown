@@ -24,7 +24,7 @@ In here we go a little bit deeper into the processing of the paths in the Edinbu
 
 With that in place we approximate the space with a regular simplicial complex $S$ where every triangle has a side of length 7 to obtain the following triangulation (right).
 
-| <img src="{{ '/img/edinburgh-forum-w-paths.png' | prepend: relative }}">Image of the Edinburgh Forum overlayed with some of the paths</img>) |  ![Triangulation of the space underlying the paths in the Edinburgh Dataset.](./../../img/output_12_1.png) |
+| <img src="{{ relative }}/img/edinburgh-forum-w-paths.png" alt="Image of the Edinburgh Forum overlayed with some of the paths"/>) |  ![Triangulation of the space underlying the paths in the Edinburgh Dataset.](./../../img/output_12_1.png) |
 
 Now, using this triangulated region we compute the distance matrix of the set of paths using our method. Doing this results in the following times (using our python implementation with a single core of an intel core i7 processor).
 
