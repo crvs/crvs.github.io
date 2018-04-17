@@ -7,7 +7,7 @@ name: coeff-flow-paper
 
 kind: "paper"
 venue: "journal"
-publication: "PeerJ"
+publication: "PeerJ (2018)"
 ref: "https://peerj.com/computer-science/"
 status: "Accepted"
 author: "J. Frederico Carvalho, Mikael Vejdemo-Johansson, Danica Kragic, Florian T. Pokorny"

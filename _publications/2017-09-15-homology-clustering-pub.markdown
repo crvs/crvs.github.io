@@ -7,7 +7,7 @@ name: homology-clustering-paper
 
 kind: "paper"
 venue: "conference"
-publication: "ICRA"
+publication: "ICRA(2018)"
 ref: "https://www.icra2018.org"
 status: "Accepted"
 author: "J. Frederico Carvalho, Mikael Vejdemo-Johansson, Danica Kragic, Florian T. Pokorny"
