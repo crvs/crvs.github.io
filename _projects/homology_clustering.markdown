@@ -74,7 +74,7 @@ Simply from comparing the dendrograms we see that DTW already clusters paths tog
 
 | MARHom | DTW |
 |:---:|:---:|
-|![png]( {{ site.baseurl }}img/output_15_2.png) |![png]( {{ site.baseurl }}/img/output_20_2.png)|
+|![png]( {{ site.baseurl }}/img/output_15_2.png ) |![png]( {{ site.baseurl }}/img/output_20_2.png)|
 
 By looking at the clustering in the picture above we see that DTW, for some reason, produces a very large cluster (in red) that seems to be broken by another cluster (in light-blue). Our method, on the other hand, produces mostly spacially-coherent clusters.
 
