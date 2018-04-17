@@ -11,8 +11,8 @@
 {% assign lvl = page.url | append:'X' | split:'/' | size %}
 {% capture relative %}.{% for i in (3..lvl) %}/..{% endfor %}{% endcapture %}
 
-  <link rel="icon" href="{{ '/img/favicon.ico' | prepend: relative }}">
-  <link rel="stylesheet" href="{{ '/css/main.css' | prepend: relative }}">
+  <link rel="icon" href="{{ '/img/favicon.ico' | prepend: absolute }}">
+  <link rel="stylesheet" href="{{ '/css/main.css' | prepend: absolute }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: relative }}">
 
