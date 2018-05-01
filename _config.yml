@@ -15,6 +15,7 @@ description: >
 url: "https://csc.kth.se" # the base hostname & protocol for your site
 baseurl: "/~jfpbdc" # "." the subpath of your site, e.g. /blog
 
+
 root: "https://csc.kth.se/~jfpbdc"
 
 twitter_username: joaoCarvas
