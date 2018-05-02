@@ -8,6 +8,6 @@ type: post
 kind: "post"
 ---
 
-Finally after an excrutiatingly long peer review process, the draft of [Distributed Verification of Structural Controllability for Linear Time-Invariant Systems]({{ "/publications/2015-06-18-composability-pub.html" | relative_url }}) has been accepted for publication in [Automatica].
+Finally after an excrutiatingly long peer review process, the draft of [Distributed Verification of Structural Controllability for Linear Time-Invariant Systems]({{ site.baseurl }}{% link _publications/2015-06-18-composability-pub.markdown %}) has been accepted for publication in [Automatica].
 
 [Automatica]:http://www.journals.elsevier.com/automatica/
