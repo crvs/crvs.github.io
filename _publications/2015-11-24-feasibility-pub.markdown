@@ -18,6 +18,7 @@ We address this problem in the structural system theoretic context. To this end,
 
 Subsequently, we study the problem of determining essential information patterns. First, we provide several necessary and sufficient conditions to verify whether a specified information pattern is essential or not. Further, we show that such conditions can be verified by resorting to algorithms with polynomial complexity (in the dimensions of the state, input and output). Although such verification can be performed efficiently, it is shown that the problem of determining essential information patterns is in general NP-hard. The main results of the paper are illustrated through examples. 
 
-Available on [ArXiv]
+Available at [IEEEXplore] and as a preprint on [ArXiv].
 
+[IEEEXplore]:https://ieeexplore.ieee.org/document/7402839/
 [ArXiV]:http://arxiv.org/abs/1509.02383
