@@ -1,7 +1,6 @@
----
 layout: post
-title:  "Follow up on bounding chains"
-date:   2018-06-11 18:33:00 +0100
+title:  "Follow up on 'An algorithm for calculating top-dimensional bounding chains'"
+date:   2017-08-01
 categories: jekyll update
 type: post
 
