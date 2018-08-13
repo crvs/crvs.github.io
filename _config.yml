@@ -12,11 +12,11 @@ description: >
     Personal page of J. Frederico Carvalho</br>
     PhD student at RPL</br>
     Royal Institute of Technology, KTH, Sweden</br>
-url: "https://csc.kth.se" # the base hostname & protocol for your site
-baseurl: "/~jfpbdc" # "." the subpath of your site, e.g. /blog
+url: "https://crvs.github.io" # the base hostname & protocol for your site
+baseurl: "" # "." the subpath of your site, e.g. /blog
 
 
-root: "https://csc.kth.se/~jfpbdc"
+root: "https://crvs.github.io"
 
 twitter_username: joaoCarvas
 github_username:  crvs
