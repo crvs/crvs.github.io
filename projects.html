@@ -8,9 +8,9 @@ permalink: /projects.html
   <ul class="post-list">
     {% for proj in site.projects %}
       <li>
-        <h2>
+        <h3>
           <a class="post-link" href="{{ proj.url | prepend: site.baseurl }}">{{ proj.title }}</a>
-        </h2>
+        </h3>
       </li>
     {% endfor %}
   </ul>
