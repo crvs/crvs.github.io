@@ -1,0 +1,13 @@
+
+So asn I was reading up on algebraic geometry I was led to think about tensor products and after not so long I was wondering about tensor products over non-commutative rings, and ended up going down that rabbit hole for a while.
+
+I realized at this point that I think I had never really given too much thought to tensor products over non-commutative rings, because the whole subject seemed too painful. but it is actually not that painful at all, so here we go:
+
+*Matrices*
+
+This sohuld be the first word in anyone's mind when it comes to non-commutative righs, and so it was that I went down this road. First erroniously using GL(n) as I forgot that it is *not a ring* but the intuition was enough to then complete the thought using $M_{nn}$.
+
+So $GL(k)$ the group of invertible matrices acts on the left of $M_{k,n}$ and on the right of $M_{m,k}$ by $L : A \mapsto MA$ and $P: B \maptsto B P{-1}$
+
+
+
