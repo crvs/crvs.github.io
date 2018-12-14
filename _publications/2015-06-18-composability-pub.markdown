@@ -4,6 +4,7 @@ title:  "Distributed Verification of Structural Controllability for Linear Time-
 date:   2015-06-18 11:54:00 +0100
 categories: jekyll update
 name: composability-paper
+figure: "figures/Decentralized_disp.png"
 
 kind: "paper"
 venue: "journal"
