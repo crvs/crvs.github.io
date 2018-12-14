@@ -13,5 +13,7 @@ My research interests include (but are not limited to):
 - Category Theory
 - Computational algebraic geometry
 - Computational algebraic topology
-- Topological data analysis
-- Applications of algebraic geometry to computer science
+- Applications of geometry and topology to computer science, robotics and learning
+- Functional programming
+
+My thesis work has been in the area of path clustering using tools from algebraic topology.
