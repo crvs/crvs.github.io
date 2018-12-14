@@ -10,19 +10,13 @@ permalink: /publications.html
     {% for pub in sorted %}
       <li>
           <div class="noclass">
-          <div class="figure" style="width: 10%; float: left;">
-              {% if pub.figure != '' %}
-              <img src="{{site.url}}/publications/{{pub.figure}}" width=10%>
-              {% endif %}
-          </div>
-          <div class="titles" style="width: 90%; float: right;">
-      <span class="post-meta">
-          <a class="post-outside" href="{{ pub.ref }}">{{ pub.date | date: "%Y" }} | {{ pub.publication }}  | {{ pub.status }}</a></span>
-
-        <h2>
-          <a class="post-link" href="{{ site.baseurl | append: pub.url }}">{{ pub.title }}</a>
-        </h2>
-        </div>
+              <div class="titles" style="width: 90%; float: left;">
+                  <span class="post-meta"> <a class="post-outside" href="{{ pub.ref }}">{{ pub.date | date: "%Y" }} | {{ pub.publication }}  | {{ pub.status }}</a></span>
+                  <h2> <a class="post-link" href="{{ site.baseurl | append: pub.url }}">{{ pub.title }}</a> </h2>
+              </div>
+              <div class="figure" style="width: 10%; float: right;">
+                  {% if pub.figure != '' %} <img src="{{site.url}}/publications/{{pub.figure}}"> {% endif %}
+              </div>
           </div>
       </li>
     {% endfor %}
