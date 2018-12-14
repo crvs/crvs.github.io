@@ -1,0 +1,7 @@
+So, I don't know exactly why but I have been made to think of the Banach-Tarski paradox lately. And after a bit of consideration I have come to think that it is not that much of a paradox to begin with. As I now see it it is more akin to Hilbert's hotel than anything else.
+
+The main line of reasoning is that by cutting up the sphere into subsets that can be assembled into two spheres, these subsets are not measurable (à la Lebesgue), much of the same argument can be made by using a 
+
+For all intents and purposes we could make the Banach Hotel to be a spherical hotel with an uncountable infinity of rooms, and the Tarski Hotel (another hotel) opens up next to the Banach Hotel and they decide, in order to relieve the Bar service at the Banach hotel, to ask the customers in room $S(a^{-1})M$ to room ...
+
+
