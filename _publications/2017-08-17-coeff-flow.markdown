@@ -5,6 +5,7 @@ date:   2017-08-17
 categories: jekyll update
 name: coeff-flow-paper
 edit: 2018-06-11
+figure: "figures/coeff_flow.png"
 
 kind: "paper"
 venue: "journal"

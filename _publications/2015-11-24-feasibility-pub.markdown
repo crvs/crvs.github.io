@@ -4,6 +4,7 @@ title:  "Static Output Feedback: On Essential Feasible Information Patterns"
 date:   2015-09-08 11:54:00 +0100
 categories: jekyll update
 
+figure: "figures/essential_feasible.gif"
 kind: "paper"
 venue: "conference"
 ref: "http://www.cdc2015.ctrl.titech.ac.jp/"

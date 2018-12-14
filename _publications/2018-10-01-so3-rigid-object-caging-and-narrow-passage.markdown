@@ -9,6 +9,7 @@ venue: "conference"
 publication: "WAFR(2018)"
 ref: "https://parasol.tamu.edu/wafr/wafr2018/"
 status: "Accepted"
+figure: "files/caging_multiple.png"
 author: "Anastasiia Varava, J. Frederico Carvalho, Florian T. Pokorny, and Danica Kragic"
 ---
 

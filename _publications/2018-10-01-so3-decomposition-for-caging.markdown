@@ -5,6 +5,7 @@ date:   2017-12-11
 categories: jekyll update
 name: path-non-existence
 
+figure: "figures/epscore.png"
 kind: "paper"
 venue: "conference"
 publication: "ISRR(2017)"
