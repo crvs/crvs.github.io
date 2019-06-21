@@ -37,6 +37,8 @@ collections:
         output: true
     blog:
         output: true
+    posts:
+        output: true
 
 # Build settings
 markdown: kramdown
