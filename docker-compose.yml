@@ -1,0 +1,14 @@
+version: '3'
+services:
+        jekyll_:
+                image: jekyll/minimal:3.8
+                volumes:
+                        - .:/srv/jekyll
+                command: jekyll build --watch
+
+        nginx_:
+                image: nginx:latest
+                volumes:
+                        - ./_site:/usr/share/nginx/html:ro
+                ports:
+                        - 8080:80
