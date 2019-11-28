@@ -22,6 +22,11 @@
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
+          {% if site.mastodon.username %}
+          <li>
+            {% include icon-mastodon.html username=site.mastodon.username instance=site.mastodon.insntance %}
+          </li>
+          {% endif %}
 
           {% if site.twitter_username %}
           <li>
