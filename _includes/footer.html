@@ -23,7 +23,7 @@
           </li>
           {% endif %}
           {% if site.mastodon %}
-            {% for inst in site.blog %}
+            {% for inst in site.mastodon %}
               <li>
                     {% include icon-mastodon.html username=inst.username instance=inst.instance %}
               </li>

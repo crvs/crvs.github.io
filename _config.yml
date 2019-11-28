@@ -19,8 +19,8 @@ baseurl: "" # "." the subpath of your site, e.g. /blog
 root: "https://crvs.github.io"
 
 mastodon:
-    - username: crvs
-      instance: mastodon.social
+ - username: crvs
+   instance: mastodon.social
 
 twitter_username: joaoCarvas
 github_username:  crvs
