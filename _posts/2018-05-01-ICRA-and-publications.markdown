@@ -11,5 +11,3 @@ kind: "post"
 I will be attending ICRA 2018 in Brisbane, Australia where I will be presenting the paper [Path Clustering with Homology Area]({{ site.baseurl}}{% link _publications/2017-09-15-homology-clustering-pub.markdown %}).
 
 On a (not so) related note, the paper [An algorithm for calculating top-dimensional bounding chains"]( {{ site.baseurl }}{% link _publications/2017-08-17-coeff-flow.markdown %}) has been accepted for publication in [PeerJ-CS](https://peerj.com/computer-science/).
-
-Also related is the fact that I have included a [new project]( {{ site.baseurl }}{% link _projects/homology_clustering.markdown %}) on the web page that is related to the paper I will present on ICRA 2018.
