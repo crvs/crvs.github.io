@@ -37,10 +37,11 @@ jekyll: "https://github.com/jekyll"
 collections:
     publications:
         output: true
-    projects:
-        output: true
-    blog:
-        output: true
+
+#   projects:
+#       output: false
+#   blog:
+#       output: false
 
 # Build settings
 markdown: kramdown
