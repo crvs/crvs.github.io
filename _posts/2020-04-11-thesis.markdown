@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Thesis Defended"
+date:   2020-04-11
+categories: jekyll update
+type: post
+kind: "post"
+
+---
+
+I have officially defended my thesis (which can be found [here]({{ site.baseurl }}{% link _publications/2020-03-17-thesis.markdown %})) on the 17th of March!
+

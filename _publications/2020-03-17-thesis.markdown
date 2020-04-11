@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Topological Methods For Motion Prediction And Caging"
+date:   2020-03-17
+categories: jekyll update
+name: ijrr-caging-2020
+
+figure: ""
+kind: "thesis"
+venue: "thesis"
+publication: "Thesis"
+ref: ""
+status: ""
+author: "J. Frederico Carvalho"
+
+---
+
+Abstract:
+
+To fulfill the requirements of automation in unstructured environments it will be necessary to endow robots with the ability to plan actions that can handle the dynamic nature of changing environments and are robust to perceptual errors.
+This thesis focuses on the design of algorithms to facilitate motion planning in human environments and rigid object manipulation.
+
+Understanding human motion is a necessary first step to be able to perform motion planning in spaces that are inhabited by humans.
+Specifically through long-term prediction a robot should be able to plan collision-avoiding paths to carry out whatever tasks are required of it.
+In this thesis we present a method to classify motions by clustering paths, together with a method to translate the resulting clusters into motion patterns that can be used to predict motion.
+
+Another challenge of robotics is the manipulation of everyday objects.
+Even in the realm of rigid objects, safe object-manipulation by either grippers or dexterous robotic hands requires complex physical parameter estimation.
+Such estimations are often error-prone and misestimations may cause complete failure to execute the desired task.
+Caging is presented as an alternative approach to classical manipulation by employing topological invariants to determine whether an object is secured with only bounded mobility.
+We present a method to decide whether a rigid object is in fact caged by a given grasp or not, relying only on a rough approximation of the object and the gripper.
+
+Electronic version available [here]({{ site.base_url }}{% files/joao_thesis.pdf %})
