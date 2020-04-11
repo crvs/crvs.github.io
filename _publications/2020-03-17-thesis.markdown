@@ -5,12 +5,12 @@ date:   2020-03-17
 categories: jekyll update
 name: ijrr-caging-2020
 
-figure: "''"
+figure: "figures/thesis.png"
 kind: "thesis"
 venue: "thesis"
 publication: "Thesis"
-ref: "''"
-status: "''"
+ref: ""
+status: ""
 author: "J. Frederico Carvalho"
 
 ---
