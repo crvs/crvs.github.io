@@ -30,4 +30,4 @@ Such estimations are often error-prone and misestimations may cause complete fai
 Caging is presented as an alternative approach to classical manipulation by employing topological invariants to determine whether an object is secured with only bounded mobility.
 We present a method to decide whether a rigid object is in fact caged by a given grasp or not, relying only on a rough approximation of the object and the gripper.
 
-Electronic version available [here]({{ link: files/joao_thesis.pdf }})
+Electronic version available [here]({{ site.baseurl | append: files/joao_thesis.pdf }})
