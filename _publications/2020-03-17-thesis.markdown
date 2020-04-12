@@ -32,4 +32,4 @@ We present a method to decide whether a rigid object is in fact caged by a given
 
 Electronic version available [here].
 
-[here]:{{ site.baseurl | append: files/joao_thesis.pdf }}
+[here]:{{ site.baseurl }}{% link files/joao_thesis.pdf %}
